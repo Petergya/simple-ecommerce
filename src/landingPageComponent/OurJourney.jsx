@@ -3,7 +3,7 @@ export default function OurJourney () {
     return (
         <div>
             <h1>
-                Our Team
+                Our Journey
             </h1>
         </div>
     )

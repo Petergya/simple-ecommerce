@@ -3,7 +3,7 @@ export default function Hero () {
     return (
         <div>
             <h1>
-                Our Team
+                Hero
             </h1>
         </div>
     )
